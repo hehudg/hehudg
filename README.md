@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @hehudg
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 🚀 Coding Journey Starter | 编程之旅启程 
 
-<!---
-hehudg/hehudg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Beginner's Edition 🇺🇸**  
+- 👋 Hi! I'm @hehudg | Enthusiastic Coding Newbie  
+- 👀 Exploring Python 🐍 | Web Basics 🌐 (HTML/CSS/JS)  
+- 🌱 Learning Git Essentials 📚 | VS Code Wizardry ⚡  
+- 💞️ Looking for study buddies & open-source mentors  
+- 📫 Let's connect:  
+  [![GitHub](https://img.shields.io/badge/-Message_Me-181717?style=flat&logo=github)](https://github.com/hehudg)  
+- 🎉 Fun fact: Built my first calculator webpage!
